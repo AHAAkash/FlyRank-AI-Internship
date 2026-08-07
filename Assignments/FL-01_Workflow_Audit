@@ -1,0 +1,75 @@
+FL-01: Workflow Audit
+Name: Ahad Hosen Akash
+1. My Recurring Weekly Tasks and AI Classification
+#	Recurring Task	Classification	Rationale
+1	Reading and understanding research papers related to Machine Learning, NLP, and Fake Review Detection	Collaborate with AI	AI can summarize papers, explain difficult concepts, and identify research gaps, but I need to verify the original paper and decide whether the ideas are relevant to my research.
+2	Writing and improving my research/thesis sections	Collaborate with AI	AI can help organize ideas, improve clarity, and identify weaknesses, while I must provide the research findings and ensure the writing accurately represents my work.
+3	Developing and debugging Python/ML code	Collaborate with AI	AI is useful for explaining errors, suggesting fixes, and improving code, but I need to test the code and confirm that the solution works.
+4	Designing ML experiments and selecting appropriate evaluation methods	Just me	Experimental decisions affect the validity of my research, so I need to make the final methodological decisions based on literature, data, and research objectives.
+5	Preparing for thesis defence and explaining my own research	Just me	I must personally understand my methodology, results, limitations, and contributions because I will be responsible for answering questions during the defence.
+6	Creating presentations and academic slides	Delegate to AI with review	AI can create an initial structure, concise explanations, and slide content, but I need to review the technical accuracy and presentation flow.
+7	Learning new programming concepts and technologies	Collaborate with AI	AI can act as a tutor by explaining concepts, providing examples, and creating practice questions, while I need to practice and verify my understanding.
+8	Debugging Flutter/Dart applications	Collaborate with AI	AI can analyze error messages and suggest solutions, but I need to reproduce the problem, implement the fix, and test the application.
+9	Building and improving personal software projects	Collaborate with AI	AI can help with architecture, implementation ideas, documentation, and debugging, while I remain responsible for requirements and final technical decisions.
+10	Writing GitHub README files and project documentation	Delegate to AI with review	AI can convert technical information into organized documentation, but I need to verify commands, features, installation steps, and project-specific details.
+11	Reviewing datasets and performing data preprocessing	Collaborate with AI	AI can suggest preprocessing methods and help write code, but I need to inspect the dataset and determine whether the transformations are appropriate.
+12	Preparing CV/resume and describing technical projects	Delegate to AI with review	AI can improve wording and highlight relevant skills, but I must ensure every claim is truthful and accurately represents my experience.
+13	Searching for possible research topics and project ideas	Collaborate with AI	AI is useful for brainstorming and comparing directions, but I need to validate novelty, feasibility, datasets, and existing literature.
+14	Repetitive formatting and organization of notes or documents	Fully automate	These tasks follow predictable rules and can be handled automatically once the desired format and requirements are defined.
+
+2. Toolkit Setup
+Check off as you go and take a screenshot for each row as your evidence.
+Item	Evidence to capture
+Claude account created	 
+ChatGPT account created	 
+Anthropic Academy account created	 
+Enrolled in AI Fluency: Framework & Foundations	 
+Claude Project created with custom instructions	 
+ 
+3. Claude Project — Custom Instructions Template
+Create a new Project in Claude, open Project settings → Custom Instructions, and paste in something like the template below (edit the bracketed parts to be true of you). Then take a screenshot of the settings pane and drop it here.
+Who I am:
+I am a Computer Science and Engineering student interested in Machine Learning, Natural Language Processing, software development, and academic research. I regularly work on research papers, ML projects, programming, Flutter/software projects, technical documentation, and academic assignments.
+Tone preferences:
+Be direct, clear, precise, and technically accurate. Avoid unnecessary filler. Explain difficult concepts step by step using practical examples. Use appropriate technical terminology, when necessary, but explain unfamiliar terms clearly. Push back when my reasoning or approach is weak and suggest better alternatives.
+Current goals:
+My current goals are to complete the AI Fluency course, improve my ability to collaborate effectively with AI, strengthen my Machine Learning and NLP research skills, improve Python and software-development skills, analyse research papers more efficiently, improve my academic and technical writing, and build high-quality software and research projects.
+Standing constraints:
+Always distinguish facts from suggestions or assumptions. Never fabricate sources, citations, research results, datasets, or technical information. Flag uncertainty when information is not verified. For research and academic work, encourage me to verify important claims using original sources. When helping with code, explain the cause of errors before giving the fix. Do not replace my judgment in research methodology, experimental decisions, or other important academic decisions. Help me understand the reasoning behind the answer rather than simply producing an output.
+ 
+
+
+
+4. Three Audit Tasks for FL-02 Through FL-04
+Task 1: Research Paper Analysis
+Audit task: Use AI to help me analyze research papers related to Machine Learning, NLP, and fake review detection.
+“Done well” means:
+•	The research problem, methodology, dataset, models, and evaluation metrics are correctly identified. 
+•	At least 3 key contributions and 2 limitations/research gaps are identified. 
+•	Technical concepts are explained clearly in my own words. 
+•	Important claims are checked against the original paper. 
+•	I can explain the paper’s main idea and findings without relying on AI’s wording. 
+Success measure: I can produce a structured analysis of a paper and explain its methodology and findings independently.
+
+Task 2: Python/ML Code Debugging
+Audit task: Use AI to diagnose and fix errors in my Python and Machine Learning projects.
+“Done well” means:
+•	The exact error and its root cause are identified. 
+•	AI explains why the error occurred before suggesting a fix. 
+•	The proposed solution works in my actual development environment. 
+•	The fix does not unnecessarily break existing functionality. 
+•	I test the corrected code successfully. 
+•	I understand the solution well enough to explain it myself. 
+Success measure: The code runs successfully after debugging, and I can explain both the problem and the solution.
+
+Task 3: Academic and Technical Writing Improvement
+Audit task: Use AI to improve the clarity, structure, grammar, and technical quality of my research papers, thesis sections, and project documentation.
+“Done well” means:
+•	The original meaning and technical claims are preserved. 
+•	Grammar, sentence structure, and clarity are improved. 
+•	The writing has a logical flow and appropriate academic tone. 
+•	No fabricated information or citations are introduced. 
+•	Technical terminology is used correctly. 
+•	I review and verify the final version before using it. 
+Success measure: The revised version is clearer and more concise than the original while remaining factually accurate and consistent with my actual research.
+
